@@ -1,0 +1,7 @@
+# Insertion sort O(n<sup>2</sup>)
+
+- Run `gcc insertion_sort.c main.c -o main -Wall` to compile
+
+- Run "./main [array size]" to sort a specified size array of randomly integer numbers
+
+ For example, run `./main 10` to sort an array of 10 randomly integer numbers
