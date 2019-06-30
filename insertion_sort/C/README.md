@@ -1,4 +1,4 @@
-# Insertion sort O(n<sup>2</sup>)
+## Compile and Run
 
 - Run `gcc insertion_sort.c main.c -o main -Wall` to compile.
 
