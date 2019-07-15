@@ -1,5 +1,5 @@
-#ifndef MERGE_SORT
-#define MERGE_SORT
+#ifndef INSERTION_SORT
+#define INSERTION_SORT
 
 #include <stdio.h>
 
