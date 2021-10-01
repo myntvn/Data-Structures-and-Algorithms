@@ -13,3 +13,9 @@
 - ```__builtin_ctz(x)```: the number of zeros at the end of the number
 - ```__builtin_popcount(x)```: the number of ones in the number
 - ```__builtin_parity(x)```: the parity (even or odd) of the number of ones
+
+## Set operations
+- Intersection ($a \cap b$): ```a & b```
+- Union ($a \cup b$): ```a | b```
+- Complement ($\overline{a}$): ```~a```
+- Difference (a \ b): ```a & (~b)```
