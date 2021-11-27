@@ -19,3 +19,7 @@
 - Union: ```a | b```
 - Complement: ```~a```
 - Difference: ```a & (~b)```
+
+## Complement
+- ~N = -(N+1)
+- The 2's complement of a number N gives -N
